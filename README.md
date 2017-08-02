@@ -16,6 +16,7 @@ center 224x224 crop validation accuracy on ImageNet.
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |  ------------- | 
 | [ThiNet-GAP](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/caffe_model/ThiNet-GAP.zip)  | 67.34%  | 87.92%  | 8.32M | 9.34B | 71.73/145.51 |
 | [ThiNet-Tiny](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/caffe_model/ThiNet-Tiny.zip) | 59.34% | 81.97% | 	1.32M | 2.01B | 29.51/55.83 |
+
 **Note: These two models are trained with different image cropping method, see ``trainval.prototxt`` for more details.**
 
 
