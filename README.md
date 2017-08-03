@@ -10,7 +10,7 @@ For more details, please see our project page: [[ThiNet Project Page]](http://la
 
 ## Models
 
-center 224x224 crop validation accuracy on ImageNet.
+center 224x224 crop validation accuracy on ImageNet. We test on one M40 GPU with batch_size=32.
 
 | Model  | Top-1 | Top-5 | #Param. | #FLOPs | f./b. (ms) |
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |  ------------- | 
