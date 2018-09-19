@@ -7,6 +7,9 @@ Pretrained [caffe](https://github.com/BVLC/caffe) model of ICCV'17 paper:
 
 For more details, please see our project page: [[ThiNet Project Page]](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)
 
+## Code
+[Caffe Implementation of ThiNet](https://github.com/Roll920/ThiNet_Code)
+
 
 ## Models
 
@@ -24,13 +27,14 @@ For more details, please see our project page: [[ThiNet Project Page]](http://la
 ## Citation
 If you find this work useful for your research, please cite:
 ```
-@article{ThiNet_ICCV17,
-  title={ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression},
+@CONFERENCE{ThiNet_ICCV17,
   author={Jian-Hao Luo, Jianxin Wu, and Weiyao Lin},
-  journal={arXiv preprint arXiv:1707.06342},
-  year={2017}
+  title={ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression},
+  booktitle={ICCV},
+  year = {2017},
+  pages={5058-5066},
 }
 ```
 
 ## Contact
-Feel free to contact me if you have any question (Jian-Hao Luo luojh@lamda.nju.edu.cn).
+Feel free to contact me if you have any question (Jian-Hao Luo luojh@lamda.nju.edu.cn or jianhao920@gmail.com).
